@@ -2,6 +2,6 @@
 
 Daniele Grotti: danielegrottiuk@gmail.com
 
-> Machine Learning Course IFOA - ITALIAN VERSION
+> IOT Analisi predittiva FAV - ITALIAN VERSION
 
 1. (20/09/2022)DG 4 ore: Introduzione AI-ML [PDF_1](pdf/00_intro_ML.pdf)
