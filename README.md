@@ -15,3 +15,4 @@ Daniele Grotti: danielegrottiuk@gmail.com
 [Video Setup Windows Python Global Variable](
 https://drive.google.com/file/d/1bBBn2hO_hIra2fM_YsvV8FRtOGbgHKFq/view?usp=sharing) Esercizio Regressione Lineare [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/regression/ExampleRegression.ipynb)
 9. (30/09/2022) DG 3 ore: Intro Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/IOT_2022/blob/main/python/intro.ipynb)
+10. (05/10/2020)MR 3:30 ore:  Esercizio Regressione Pipeline  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/regression/Esercizio_Regression.ipynb) 
