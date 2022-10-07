@@ -16,5 +16,6 @@ Daniele Grotti: danielegrottiuk@gmail.com
 https://drive.google.com/file/d/1bBBn2hO_hIra2fM_YsvV8FRtOGbgHKFq/view?usp=sharing) Esercizio Regressione Lineare [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/regression/ExampleRegression.ipynb)
 9. (30/09/2022) DG 3 ore: Intro Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/IOT_2022/blob/main/python/intro.ipynb)
 10. (05/10/2022) MR 2 ore:  [Streamlit App Connected to Google sheet](https://github.com/visiont3lab/streamlit-test) [App Link](https://visiont3lab-streamlit-test-app-y0iil4.streamlitapp.com/)
-11. (06/09/2022) DG 3 ore: Sklearn - regressione classificazione [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/IOT_2022/blob/main/python/intro.ipynb)
-12. (07/09/2022) DG 3 ore: Regressione Multipla e correlazione [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/IOT_2022/blob/main/python/intro.ipynb)
+11. (06/09/2022) DG 3 ore: Sklearn - regressione classificazione [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/IOT_2022/blob/main/python/41_Iris.ipynb)
+12. (07/09/2022) DG 3 ore: Regressione Multipla e correlazione [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/IOT_2022/blob/main/python/50_boston_housing.ipynb)
+
