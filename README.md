@@ -18,4 +18,4 @@ https://drive.google.com/file/d/1bBBn2hO_hIra2fM_YsvV8FRtOGbgHKFq/view?usp=shari
 10. (05/10/2022) MR 2 ore:  [Streamlit App Connected to Google sheet](https://github.com/visiont3lab/streamlit-test) [App Link](https://visiont3lab-streamlit-test-app-y0iil4.streamlitapp.com/)
 11. (06/09/2022) DG 3 ore: Sklearn - regressione classificazione [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/IOT_2022/blob/main/python/41_Iris.ipynb)
 12. (07/09/2022) DG 3 ore: Regressione Multipla e correlazione [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/IOT_2022/blob/main/python/50_boston_housing.ipynb)
-13 (14/09/2022) MR 2ore : [Webot project](https://github.com/visiont3lab/webot-epuck-line-follower-camera)
+13. (14/09/2022) MR 2ore : [Webot project](https://github.com/visiont3lab/webot-epuck-line-follower-camera)
